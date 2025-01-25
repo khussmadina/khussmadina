@@ -1,6 +1,14 @@
-<h1 align="center">Hello, I'm Madina from KZ
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hello, I'm Madina from KZ 😎</h1>
 <h3 align="center">Frontend+Laravel student, try to balance between work and life </h3>
+
+## Brief info
+❄️ Live and work in Astana
+👪 Have great husband and two children
+🏤 Work in the public service
+💻 Study in [Factum education](https://edu.factum.agency/), Frontend+Laravel PHP
+
+
+
 <!--
 **khussmadina/khussmadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
