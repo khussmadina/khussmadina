@@ -2,10 +2,13 @@
 <h3 align="center">Frontend+Laravel student, try to balance between work and life </h3>
 
 ## Brief info
-*❄️ Live and work in Astana
-*👪 Have great husband and two children
-*🏤 Work in the public service
-*💻 Study in [Factum education](https://edu.factum.agency/), Frontend+Laravel PHP
+- ❄️ Live and work in Astana
+- 👪 Have great husband and two children
+- 🏤 Work in the public service
+- 💻 Study in [Factum education](https://edu.factum.agency/), Frontend+Laravel PHP
+- 📚 My hobby is reading and gym
+
+##
 
 
 
