@@ -8,24 +8,10 @@
 - 💻 Study in [Factum education](https://edu.factum.agency/), Frontend+Laravel PHP
 - 📚 My hobby is reading and gym
 
-## My Tech Skills
-## Follow me
+## My Tech Skills 🏆
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Follow me 💭
 - **Telegram** [@mussdina](https://t.me/mussdina)
 - **E-mail:** <a href="mailto:14madina02@gmail.com">14madina02@gmail.com</a>
-
-
-
-<!--
-**khussmadina/khussmadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
