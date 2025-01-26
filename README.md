@@ -11,7 +11,7 @@
 ## My Tech Skills
 ## Follow me
 - **Telegram** [@mussdina](https://t.me/mussdina)
-- **E-mail:** 14madina02@gmail.com 
+- **E-mail:** <a href="mailto:14madina02@gmail.com">14madina02@gmail.com</a>
 
 
 
