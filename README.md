@@ -8,7 +8,10 @@
 - 💻 Study in [Factum education](https://edu.factum.agency/), Frontend+Laravel PHP
 - 📚 My hobby is reading and gym
 
-##
+## My Tech Skills
+## Follow me
+- **Telegram** [@mussdina](https://t.me/mussdina)
+- **E-mail:** 14madina02@gmail.com 
 
 
 
